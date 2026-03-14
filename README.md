@@ -52,6 +52,8 @@ endmodule
 **RTL realization**
 
 
+Screenshot 2026-03-14 073231.png
+
 **Output:**
 
 **RTL**
