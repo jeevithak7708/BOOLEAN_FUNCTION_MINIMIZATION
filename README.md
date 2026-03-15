@@ -51,11 +51,9 @@ endmodule
 
 **RTL realization**
 ![image](https://github.com/jeevithak7708/BOOLEAN_FUNCTION_MINIMIZATION/blob/main/Screenshot%202026-03-14%20104513.png)
-**Output:**
 
 **RTL**
-
-**Timing Diagram**
+![image](https://github.com/jeevithak7708/BOOLEAN_FUNCTION_MINIMIZATION/blob/main/Screenshot%202026-03-14%20104513.png)
 
 **Result:**
 
