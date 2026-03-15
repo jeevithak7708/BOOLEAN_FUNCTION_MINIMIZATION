@@ -50,11 +50,7 @@ endmodule
 ```
 
 **RTL realization**
-https://github.com/jeevithak7708/BOOLEAN_FUNCTION_MINIMIZATION/blob/main/Screenshot%202026-03-14%20073231.png
-
-Screenshot%202026-03-14%20073231.png
-
-
+![image](Screenshot 2026-03-14 073231.png)
 **Output:**
 
 **RTL**
